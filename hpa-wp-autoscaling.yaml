@@ -12,5 +12,5 @@ spec:
     name: wordpress
       labels:
         app: wordpress
-        tier: frontend
+        #tier: frontend
   targetCPUUtilizationPercentage: 40
