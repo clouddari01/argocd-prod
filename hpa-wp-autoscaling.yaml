@@ -13,4 +13,4 @@ spec:
     # matchLabels:
         #app: wordpress
         #tier: frontend
-  targetCPUUtilizationPercentage: 40
+  targetCPUUtilizationPercentage: 20
